@@ -1,0 +1,16 @@
+{
+  "name": "discord-mute-mqtt",
+  "version": "1.0.0",
+  "description": "Discord Mute MQTT Led Controller",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Bryan Berger",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^4.0.1",
+    "dotenv": "^10.0.0",
+    "mqtt": "^4.2.6"
+  }
+}

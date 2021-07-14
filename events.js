@@ -1,0 +1,5 @@
+module.exports = {
+  DISCONNECT: "DISCONNECT",
+  MUTE_CHANGE: "MUTE_CHANGE",
+  CONNECTED: "CONNECTED",
+};
